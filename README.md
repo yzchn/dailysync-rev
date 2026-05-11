@@ -33,7 +33,7 @@ github:（actions方式正常可用）
 ### 拉取代码
 目前没有提供打包好的镜像，需要拉取下来自行打包使用
 ```shell
-git clone https://gitlab.com/gooin/dailysync.git
+git clone https://github.com/gooin/dailysync-rev.git
 ```
 ### 修改配置文件
 打开`.env`文件，按注释填入信息
